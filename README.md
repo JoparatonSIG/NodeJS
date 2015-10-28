@@ -1,54 +1,54 @@
 NodeJS-1
 =========
 
-Recursos para el curso/taller de NodeJS
+Recursos para el curso/taller de NodeJS basado en el de [HackBulgaria](https://github.com/HackBulgaria/NodeJS-1)
 
-## Detalle para las semanas
+## Estructura prospectiva
 
-## week0:
+## Semana 0:
 
 * Utilizar `node`, `npm` y `nvm` para crear aplicaciones sencillas en la consola.
 * Utilizar el inspector de Node para debugging.
 
-## week1:
+## Semana 1:
 
-* What is Node all about? Single threaded app & Event Loop & Thread pools
-* First steps in HTTP with `express`
+* ¿De qué se trata Node? Single thread, event loop & thread pools.
+* Primeros pasos en HTTP con `express`
 
-## week2:
+## Semana 2:
 
-* A+ Promises in Node (Q.js / async)
-* Problems with express and external APIs to use
+* A+ Promises en Node (Q.js / async)
+* Problemas con express y las APIs externas
 
-## week3:
+## Semana 3:
 
-* Introduction to Mongo and mongoose / mongoose-q
-* Basic CRUD applications
+* Introducción a Mongo - mongoose / mongoose-q (?)
+* Aplicaciones CRUD básicas
 
-## week4:
+## Semana 4:
 
-* Headless browsers & scrapping - PhantomJS / CasperJS / Nightmare
-* Testing web applications
+* Navegación headless y scraping - PhantomJS / CasperJS / Nightmare
+* Testeando aplicaciones web
 
-## week5:
+## Semana 5:
 
-* Passport for web apps - having users in our app
-* Mongo aggregation & making some simple statistics & dashboards
+* Passport para aplicaciones web
+* Agregación en Mongo, estadísticas simples y dashboards/paneles
 
-## week6:
+## Semana 6:
 
-* Streams & Stream API
-* Sockets (TCP/IP) + JSON protocol implementation
+* Streams y API de Stream
+* Sockets (TCP/IP) + Implementación del protocolo JSON
 * WebSockets
 
-## week7:
+## Semana 7:
 
-* Introduction to Node Cluster API - scaling things
-* Introduction to Redis - simple communication between clusters
+* Introducción a la API de Cluster de Node - escalando cosas
+* Introducción a Redis - comunicación simple entre clusters
 
-## week8:
+## Semana 8:
 
-* Adding AI to our web application
+* Agregando AI a nuestra aplicación web
 
 ## Slides
 The slides from the courses can be found on [the GitHub page of the course](http://hackbulgaria.github.io/NodeJS-1/)
