@@ -1,14 +1,14 @@
 NodeJS-1
 =========
 
-The repository for the Web Programming with NodeJS course at http://hackbulgaria.com
+Recursos para el curso/taller de NodeJS
 
-## Course Program, split over weeks
+## Detalle para las semanas
 
 ## week0:
 
-* We are going to start using `node` and `npm` and `nvm` by doing simple console-based NodeJS applications.
-* We are going to show Node Inspector for Node debugging
+* Utilizar `node`, `npm` y `nvm` para crear aplicaciones sencillas en la consola.
+* Utilizar el inspector de Node para debugging.
 
 ## week1:
 
