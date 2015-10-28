@@ -52,3 +52,8 @@ Recursos para el curso/taller de NodeJS basado en el de [HackBulgaria](https://g
 
 ## Slides
 The slides from the courses can be found on [the GitHub page of the course](http://hackbulgaria.github.io/NodeJS-1/)
+
+## Otras referencias
+
+* http://nodeschool.io/
+* http://web.stanford.edu/class/cs98si/
