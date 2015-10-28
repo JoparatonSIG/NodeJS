@@ -1,4 +1,4 @@
-NodeJS-1
+NodeJS
 =========
 
 Recursos para el curso/taller de NodeJS basado en el de [HackBulgaria](https://github.com/HackBulgaria/NodeJS-1)
@@ -53,6 +53,11 @@ Recursos para el curso/taller de NodeJS basado en el de [HackBulgaria](https://g
 ## Slides
 The slides from the courses can be found on [the GitHub page of the course](http://hackbulgaria.github.io/NodeJS-1/)
 
+## Cosas sumamente importantes a definir
+
+* Organizar ***asados*** a lo largo del curso
+* Agregar más premios
+ 
 ## Otras referencias
 
 * http://nodeschool.io/
