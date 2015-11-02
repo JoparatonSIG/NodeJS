@@ -57,7 +57,8 @@ The slides from the courses can be found on [the GitHub page of the course](http
 
 * Organizar ***asados*** a lo largo del curso
 * Agregar más premios
- 
+* Preparar ejercicios y diapositivas
+
 ## Otras referencias
 
 * http://nodeschool.io/
