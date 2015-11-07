@@ -63,3 +63,5 @@ The slides from the courses can be found on [the GitHub page of the course](http
 
 * http://nodeschool.io/
 * http://web.stanford.edu/class/cs98si/
+
+* NodeSchool Chile: http://blog.noders.cl/
