@@ -14,6 +14,7 @@ Recursos para el curso/taller de NodeJS basado en el de [HackBulgaria](https://g
 
 * ¿De qué se trata Node? Single thread, event loop & thread pools.
 * Primeros pasos en HTTP con `express`
+* Middleware con `express`
 
 ## Semana 2:
 
