@@ -28,7 +28,7 @@ Recursos para el curso/taller de NodeJS basado en el de [HackBulgaria](https://g
 
 ## Semana 4:
 
-* Navegación headless y scraping - PhantomJS / CasperJS / Nightmare
+* Navegación headless y scraping - PhantomJS / CasperJS / Nightmare / [Zombie](https://github.com/assaf/zombie)
 * Testeando aplicaciones web
 
 ## Semana 5:
